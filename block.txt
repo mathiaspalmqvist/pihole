@@ -1,0 +1,8 @@
+# blacklist
+
+0.0.0.0 cmp.aftonbladet.se
+0.0.0.0 cmp.svd.se
+0.0.0.0 cmp.godare.se
+0.0.0.0 cmp.klart.se
+0.0.0.0 cmp.omni.se
+0.0.0.0 cmp.tv.nu
