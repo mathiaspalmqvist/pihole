@@ -1,16 +1,16 @@
 # blacklist
 
-(\.|^)aftonbladet\.se$
-(\.|^)blocket\.nu$
-(\.|^)cookiebot\.com$
-(\.|^)getgreenshot\.org$
-(\.|^)godare\.se$
-(\.|^)klart\.se$
-(\.|^)netflix\.com$
-(\.|^)omni\.se$
-(\.|^)prisjakt\.nu$
-(\.|^)rapid7\.com$
-(\.|^)schibsted\.com$
-(\.|^)sentinelone\.net$
-(\.|^)svd\.se$
-(\.|^)tv\.nu$
+aftonbladet.se
+blocket.nu
+cookiebot.com
+getgreenshot.org
+godare.se
+klart.se
+netflix.com
+omni.se
+prisjakt.nu
+rapid7.com
+schibsted.com
+sentinelone.net
+svd.se
+tv.nu
